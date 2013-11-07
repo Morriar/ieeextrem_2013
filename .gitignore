@@ -1,0 +1,6 @@
+*.swp
+
+*/nbproject/*
+
+build.xml
+*/build/*
